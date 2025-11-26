@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps Opportunities**
 
 - 📝 I write articles on [https://hashnode.com/@arilbytes](https://hashnode.com/@arilbytes)
 
